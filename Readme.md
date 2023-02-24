@@ -1,1 +1,1 @@
-Esse projeto faz parte do curso da The Odin Project, é o primeiro projeto em HTML.
+Esse projeto faz parte do curso da The Odin Project, é o primeiro projeto em HTML, não há uso de CSS. O projeto trata de um site de receitas, onde utilizei de links locais de arquivos. Caso queira baixar. Recomendo fortemente que baixe todos os arquivos e armazene eles do jeito que está!
